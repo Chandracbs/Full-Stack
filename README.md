@@ -1,13 +1,6 @@
-# FULL-STACK
+# Any big changes , make a note here !
 
-Both UI and UX
+Let's code ...
 
-# Here we go.
-//So, let's start our coding and commit information after this. Here we go. 3 2 1.//
-
-Start here
-hhhhh
-
-hello hello hello how low
 
 
